@@ -2,9 +2,9 @@
 title: About
 type: Page
 sections:
-  - type: HeroSection
-    title: Example for H2 headline
-    subtitle: This is the subtitle
+  - type: Impel AI
+    title: Transformando negocios con estrategia Humana e IA
+    subtitle: Especialista en crecimiento y optimización
     text: >
       This is **Markdown** *text*.
 
