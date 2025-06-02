@@ -11,12 +11,12 @@ sections:
       url: public/images/Title.jpg
       altText: Estrategia Empresarial Humana con IA
     actions:
-      - type: Button
-        label: Escríbenos por email
-        url: 'mailto:aalonso@impelg.com?subject=Consulta%20desde%20el%20sitio&body=Hola,%20me%20gustaría%20saber%20más%20sobre%20tu%20consultoría'
-        size: large
-        variant: contained
-        color: primary
+     type: Button
+      label: Escríbenos por email
+      url: "mailto:aalonso@impelg.com subject=Consulta%20desde%20el%20sitio&body=Hola,%20me%20gustaría%20saber%20más%20sobre%20tu%20consultoría"
+      size: large
+      variant: contained
+      color: primary
 
   - type: FeaturesSection
     title: Proyectos Destacados
