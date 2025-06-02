@@ -3,8 +3,8 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
-    subtitle: 'Transformando Negocios con Estrategia Humana e IA'
+    title: Transformando Negocios con Estrategia Humana e IA
+    subtitle: 'Ayudams a Empresas a Crecer con Soluciones Personalizadas'
     text: >
       Ayudams a Empresas a Crecer con Soluciones Personalizadas
       - type: Button
@@ -21,17 +21,17 @@ sections:
         color: primary
     image:
       type: Image
-      url: public/images/Title.jpg
+      url: images/Title.jpg
       altText: Estrategia Digital Empresarial
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: Proyectos
+    subtitle: Humano - Robot
     items:
       - type: Card
         title: Digitalización de procesos.
         image:
           type: Image
-          url: public/images/Digitalización.png
+          url: images/Digitalización.png
           altText: Digitalización de procesos.
         text: >
           Acompañamos a empresas en su transición digital con enfoque humano.
@@ -43,7 +43,7 @@ sections:
         title: Programa de liderazgo consciente 360º
         image:
           type: Image
-          url: public/images/Leadership Growth.jpg
+          url: images/Leadership Growth.jpg
           altText: Cultura de crecimiento en competencias y desarrollo
         text: >
           Entrenamos a líderes en 6 países para impulsar culturas de alto desempeño
@@ -55,7 +55,7 @@ sections:
         title: Digitalización de procesos para PyMES
         image:
           type: Image
-          url: public/images/Digitalización.png
+          url: images/Digitalización.png
           altText: Acompañamos a empresas en su transición digital con enfoque humano.
         text: >
           Acompañamos a empresas en su transición digital con enfoque humano.
