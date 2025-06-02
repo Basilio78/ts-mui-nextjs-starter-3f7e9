@@ -31,7 +31,7 @@ sections:
         title: Inteligencia Artificial en las ventas.
         image:
           type: Image
-          url: images/Digitalización.png
+          url: images/Inteligencia Artificial en las Ventas.png
           altText: Potencial humano con herramientas de IA y Digitalización de procesos.
         text: >
           Acompañamos a empresas en su transición digital con enfoque humano.
