@@ -32,7 +32,7 @@ sections:
 
       - title: Digitalización de procesos para PyMES
         description: Acompañamos a empresas en su transición digital con enfoque humano.
-        image: public/images/Digitalización.PNG
+        image: public/images/Digitalización.png
 
       - title: Transformación de Mindset Deportivo
         description: Acompañamos equipos deportivos hacia un mindset sano con PNL y Coaching
