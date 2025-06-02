@@ -2,7 +2,7 @@
 title: About
 type: Page
 sections:
-  - type:HeroSection
+  - type: HeroSection
     title: Transformando negocios con estrategia Humana e Inteligencia Artificial
     subtitle: El propósito se centra en crecimiento y optimización
     text: >
