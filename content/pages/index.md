@@ -5,7 +5,8 @@ sections:
   - type: HeroSection
     title: Hero Title
     subtitle: 'Transformando negocios con estrategia humana e Inteligencia Artificial'
-    text: > Especializatas en crecimiento y perzonalización
+    text: >
+    Especializatas en crecimiento y perzonalización
       - type: Button
         label: Start Building
         url: 'https://docs.netlify.com/visual-editor/get-started/'
