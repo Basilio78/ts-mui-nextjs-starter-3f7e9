@@ -18,7 +18,7 @@ export const Header: React.FC<Props> = (props) => {
                 {title && (
                     <MuiBox sx={{ mb: 1, mr: 2, flexGrow: 1 }}>
                         <MuiTypography component="p" variant="h6" color="text.primary" noWrap data-sb-field-path=".title">
-                            {title}
+                            {RicAlo}
                         </MuiTypography>
                     </MuiBox>
                 )}
