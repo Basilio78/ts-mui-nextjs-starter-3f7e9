@@ -2,8 +2,8 @@
 title: About
 type: Page
 sections:
-  - type: Impel AI
-    title: Transformando negocios con estrategia Humana e IA
+  - type:
+    title: Transformando negocios con estrategia Humana e Inteligencia Artificial
     subtitle: Especialista en crecimiento y optimización
     text: >
       This is **Markdown** *text*.
