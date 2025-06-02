@@ -2,9 +2,9 @@
 title: About
 type: Page
 sections:
-  - type:
+  - type:HeroSection
     title: Transformando negocios con estrategia Humana e Inteligencia Artificial
-    subtitle: Especialista en crecimiento y optimización
+    subtitle: El propósito se centra en crecimiento y optimización
     text: >
       This is **Markdown** *text*.
 
