@@ -8,7 +8,7 @@ sections:
       Acompañamos a empresas a escalar mediante soluciones estratégicas que integran lo humano, lo digital y lo operativo, con impacto real.
     image:
       type: Image
-      url: /images/IMG_9600.JPG
+      url: public/images/Title.jpg
       altText: Estrategia Empresarial Humana con IA
     actions:
       - type: Button
