@@ -17,8 +17,8 @@ export const Header: React.FC<Props> = (props) => {
             <MuiToolbar disableGutters={true} sx={{ flexWrap: 'wrap' }}>
                 {title && (
                     <MuiBox sx={{ mb: 1, mr: 2, flexGrow: 1 }}>
-                        <MuiTypography component="p" variant="h6" color="text.primary" noWrap data-sb-field-path=".RicAlo">
-                            {RicAlo}
+                        <MuiTypography component="p" variant="h6" color="text.primary" noWrap data-sb-field-path=".Title">
+                            {Title}
                         </MuiTypography>
                     </MuiBox>
                 )}
