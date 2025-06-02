@@ -43,7 +43,7 @@ sections:
         title: Programa de liderazgo consciente 360º
         image:
           type: Image
-          url: images/Leadership Growth.jpg
+          url: images/Liderazgo Consciente 360.png
           altText: Cultura de crecimiento en competencias y desarrollo
         text: >
           Entrenamos a líderes en 6 países para impulsar culturas de alto desempeño
