@@ -9,7 +9,7 @@ sections:
       Ayudams a Empresas a Crecer con Soluciones Personalizadas
       - type: Button
         label: Contactanos
-        url: '[/Contacto](https://impel-mx.com/)'
+        url: 'https://impel-mx.com/contacto2/'
         size: large
         variant: contained
         color: primary
