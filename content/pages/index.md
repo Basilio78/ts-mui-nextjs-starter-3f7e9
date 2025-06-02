@@ -4,12 +4,8 @@ type: Page
 sections:
   - type: HeroSection
     title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
-    actions:
+    subtitle: 'Transformando negocios con estrategia humana e Inteligencia Artificial'
+    text: > Especializatas en crecimiento y perzonalización
       - type: Button
         label: Start Building
         url: 'https://docs.netlify.com/visual-editor/get-started/'
