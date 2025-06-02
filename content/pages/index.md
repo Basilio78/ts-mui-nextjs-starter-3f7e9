@@ -13,7 +13,7 @@ sections:
     actions:
       - type: Button
         label: Escríbenos por email
-        url: "mailto:aalonso@impelg.com?subject=Consulta%20desde%20el%20sitio&body=Hola,%20me%20gustaría%20saber%20más%20sobre%20tu%20consultoría"
+        url: ´mailto:aalonso@impelg.com?subject=Consulta%20desde%20el%20sitio&body=Hola,%20me%20gustaría%20saber%20más%20sobre%20tu%20consultoría´
         size: large
         variant: contained
         color: primary
