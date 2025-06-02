@@ -9,7 +9,7 @@ sections:
       Ayudams a Empresas a Crecer con Soluciones Personalizadas
       - type: Button
         label: Contactanos
-        url: '/Contacto'
+        url: '[/Contacto](https://impel-mx.com/)'
         size: large
         variant: contained
         color: primary
@@ -28,11 +28,11 @@ sections:
     subtitle: Humano - Robot
     items:
       - type: Card
-        title: Digitalización de procesos.
+        title: Inteligencia Artificial en las ventas.
         image:
           type: Image
           url: images/Digitalización.png
-          altText: Digitalización de procesos.
+          altText: Potencial humano con herramientas de IA y Digitalización de procesos.
         text: >
           Acompañamos a empresas en su transición digital con enfoque humano.
         actions:
