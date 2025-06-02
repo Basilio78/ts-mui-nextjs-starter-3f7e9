@@ -15,13 +15,7 @@ export const Header: React.FC<Props> = (props) => {
     return (
         <MuiAppBar position="static" color="transparent" elevation={0} data-sb-field-path={fieldPath}>
             <MuiToolbar disableGutters={true} sx={{ flexWrap: 'wrap' }}>
-                {title && (
-                    <MuiBox sx={{ mb: 1, mr: 2, flexGrow: 1 }}>
-                        <MuiTypography component="p" variant="h6" color="text.primary" noWrap data-sb-field-path=".Title">
-                            {Title}
-                        </MuiTypography>
-                    </MuiBox>
-                )}
+              
                 {navLinks.length > 0 && (
                     <MuiBox component="nav" sx={{ display: 'flex', flexWrap: 'wrap' }} data-sb-field-path=".navLinks">
                         {navLinks.map((link, index) => (
