@@ -14,7 +14,7 @@ sections:
       size: large
       variant: contained
       color: primary
-    image:
+   image:
       type: Image
       url: images/Title.jpg
       altText: Estrategia Digital Empresarial
