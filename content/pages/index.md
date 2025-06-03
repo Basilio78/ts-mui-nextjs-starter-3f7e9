@@ -1,7 +1,7 @@
 ---
 title: Home
 type: Page
-sections:
+ sections:
   - type: HeroSection
     title: Impulsando al Ser Humana con Inteligencia Artificial 
     subtitle: 'Transformando Negocios con Soluciones Personalizadas'
