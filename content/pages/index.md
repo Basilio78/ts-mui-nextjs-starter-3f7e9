@@ -7,9 +7,17 @@ sections:
     subtitle: 'Ayudams a Empresas a Crecer con Soluciones Personalizadas'
     text: >
       Ayudams a Empresas a Crecer con Soluciones Personalizadas
-  - type: Button
-    label: Contáctanos
-    url: 'https://www.impel-mx.com/contacto2'
+  - type: CallToAction
+  title: ¿Necesitas ayuda?
+  subtitle: Conecta con nuestro robot de soporte y resuelve tus dudas en tiempo real.
+  buttons:
+    - type: Button
+      label: Ir al Asistente Virtual
+      url: 'https://norma-ae4d43.zapier.app'
+      size: large
+      variant: contained
+      color: secondary
+
     image:
       type: Image
       url: images/Title.jpg
@@ -54,4 +62,9 @@ sections:
           - type: Button
             label: Read the Docs
             url: 'Liderazgo Consciente 360.pdf'
----
+--- Type: Button
+        label: Contáctanos
+        url: 'https://www.impel-mx.com/contacto2/'
+      size: large
+      variant: contained
+      color: primary
