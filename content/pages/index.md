@@ -10,6 +10,9 @@ sections:
       - type: Button
         label: Contactanos
         url: 'https://impel-mx.com/contacto2/'
+         size: large
+      variant: contained
+      color: primary
     image:
       type: Image
       url: images/Title.jpg
@@ -53,5 +56,5 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: '[https://docs.netlify.com/visual-editor/overview/](https://docs.google.com/presentation/d/1HqmNvcFJd9mCxkdgLom-xzYB7E4TOYL1/edit?usp=sharing&ouid=109032553929236061440&rtpof=true&sd=true)'
+            url: 'Liderazgo Consciente 360.pdf'
 ---
