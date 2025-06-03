@@ -52,4 +52,3 @@ type: Page
           - type: Button
             label: Ir a la propuesta
             url: 'Liderazgo Consciente 360.pdf'
---- 
