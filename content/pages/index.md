@@ -3,12 +3,12 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Impulsando al Ser Humana con Inteligencia Artificial
+    title: Impulsando al Ser Humana con Inteligencia Artificial 
     subtitle: 'Transformando Negocios con Soluciones Personalizadas'
     text: >
       Impulsamos tu negocio combinando estrategia humana con inteligencia artificial para lograr resultados excepcionales.
-    buttons:
-    image:
+   buttons:
+   image:
       type: Image
       url: images/Title.jpg
       altText: Estrategia Digital Empresarial
@@ -52,4 +52,4 @@ sections:
           - type: Button
             label: Ir a la propuesta
             url: 'Liderazgo Consciente 360.pdf'
-...
+--- 
