@@ -50,6 +50,6 @@ sections:
           Acompañamos a empresas en su transición digital con enfoque humano.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Ir a la propuesta
             url: 'Liderazgo Consciente 360.pdf'
 --- 
