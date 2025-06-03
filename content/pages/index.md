@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Transformando Negocios con Estrategia Humana e IA
+    title: Transformando Negocios con Estrategia Humana e Inteligencia Artificial 
     subtitle: 'Ayudams a Empresas a Crecer con Soluciones Personalizadas'
     text: >
       Ayudams a Empresas a Crecer con Soluciones Personalizadas
