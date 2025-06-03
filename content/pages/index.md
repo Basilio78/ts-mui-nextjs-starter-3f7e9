@@ -7,7 +7,7 @@ sections:
     subtitle: 'Transformando Negocios con Soluciones Personalizadas'
     text: >
       Impulsamos tu negocio combinando estrategia humana con inteligencia artificial para lograr resultados excepcionales.
-      type: Button
+     - type: Button
       label: Solicita una consultoría gratuita
       url: mailto:aalonso@impelg.com?subject=Solicito%20una%20consultoría%20gratuita&body=Hola%2C%20me%20interesa%20una%20consultoría%20gratuita%20sobre%20transformación%20con%20IA%20y%20estrategia%20humana.
       size: large
