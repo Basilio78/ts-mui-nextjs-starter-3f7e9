@@ -2,7 +2,7 @@
 title: Home
 type: Page
  sections:
-  - type: HeroSection
+   - type: HeroSection
     title: Impulsando al Ser Humana con Inteligencia Artificial 
     subtitle: 'Transformando Negocios con Soluciones Personalizadas'
     text: >
@@ -52,3 +52,4 @@ type: Page
           - type: Button
             label: Ir a la propuesta
             url: 'Liderazgo Consciente 360.pdf'
+---
