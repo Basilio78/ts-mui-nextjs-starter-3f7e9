@@ -10,15 +10,6 @@ sections:
       - type: Button
         label: Contactanos
         url: 'https://impel-mx.com/contacto2/'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: Conoce los proyectos
-        url: /Servicios
-        size: large
-        variant: outlined
-        color: primary
     image:
       type: Image
       url: images/Title.jpg
@@ -38,7 +29,7 @@ sections:
         actions:
           - type: Button
             label: Resume
-            url: '[https://docs.netlify.com/visual-editor/overview/](https://drive.google.com/file/d/1KuFdQ54Jj8OBJoIC4ciC3qqDnnLYxfJK/view?usp=sharing)'
+            url: '/images/Resum.pdf'
       - type: Card
         title: Programa de liderazgo consciente 360º
         image:
@@ -50,7 +41,7 @@ sections:
         actions:
           - type: Button
             label: Ir a la propuesta
-            url: '[https://docs.netlify.com/visual-editor/overview/](https://docs.google.com/presentation/d/1B-BGyZ2MHsaOOaeSJH42EsLgcP5-1EP_/edit?usp=sharing&ouid=109032553929236061440&rtpof=true&sd=true)'
+            url: '/Liderazgo Consciente 360.ppsx'
       - type: Card
         title: Digitalización de procesos para PyMES
         image:
