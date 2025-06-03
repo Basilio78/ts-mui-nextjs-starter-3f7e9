@@ -12,23 +12,23 @@ export default function App({ Component, pageProps, emotionCache = clientSideEmo
   return (
     <CacheProvider value={emotionCache}>
       <Head>
-        {/* Script del chatbot de Zapier */}
+        {/* Script actualizado del chatbot de Zapier */}
         <script
           async
           type="module"
-          src="https://interfaces.zapier.com/assets/webcomponents/zapier-interfaces-chatbot/zapier-interfaces-chatbot.js"
+          src="https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js"
         ></script>
       </Head>
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <Component {...pageProps} />
-        {/* Chatbot Norma embebido como pop-up */}
+        {/* Chatbot Norma con ID actualizado */}
         <div
           dangerouslySetInnerHTML={{
             __html: `
               <zapier-interfaces-chatbot-embed
                 is-popup="true"
-                chatbot-id="cmb9jx6am0ohq0z6z6mbe9aiw">
+                chatbot-id="cmb9jx6tm00fjpmdz1y00d1z1">
               </zapier-interfaces-chatbot-embed>
             `,
           }}
