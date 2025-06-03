@@ -3,8 +3,8 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Transformando Negocios: Impulsando al Ser Humana con Inteligencia Artificial 
-    subtitle: 'Ayudams a Empresas a Crecer con Soluciones Personalizadas'
+    title: Impulsando al Ser Humana con Inteligencia Artificial 
+    subtitle: 'Transformando Negocios con Soluciones Personalizadas'
     text: >
       Ayudams a Empresas a Crecer con Soluciones Personalizadas
 
