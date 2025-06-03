@@ -7,12 +7,9 @@ sections:
     subtitle: 'Ayudams a Empresas a Crecer con Soluciones Personalizadas'
     text: >
       Ayudams a Empresas a Crecer con Soluciones Personalizadas
-      - type: Button
-        label: Contactanos
-        url: 'https://impel-mx.com/contacto2/'
-         size: large
-      variant: contained
-      color: primary
+  - type: Button
+    label: Contáctanos
+    url: 'https://www.impel-mx.com/contacto2'
     image:
       type: Image
       url: images/Title.jpg
