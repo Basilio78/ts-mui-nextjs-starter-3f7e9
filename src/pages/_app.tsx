@@ -22,13 +22,18 @@ export default function App({ Component, pageProps, emotionCache = clientSideEmo
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <Component {...pageProps} />
-     <div
-  dangerouslySetInnerHTML={{
-    __html: `
-      <zapier-interfaces-chatbot-embed
-        is-popup="true"
-        chatbot-id="cmb9jx6am0ohq0z6z6mbe9aiw">
-      </zapier-interfaces-chatbot-embed>
-    `,
-  }}
-/>
+        {/* Chatbot Norma embebido como pop-up */}
+        <div
+          dangerouslySetInnerHTML={{
+            __html: `
+              <zapier-interfaces-chatbot-embed
+                is-popup="true"
+                chatbot-id="cmb9jx6am0ohq0z6z6mbe9aiw">
+              </zapier-interfaces-chatbot-embed>
+            `,
+          }}
+        />
+      </ThemeProvider>
+    </CacheProvider>
+  );
+}
