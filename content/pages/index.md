@@ -60,8 +60,7 @@ sections:
         actions:
           - type: Button
             label: Ir a la propuesta
-            url: 'Liderazgo Consciente 360.pdf'
-            
+            url: 'Liderazgo Consciente 360.pdf' 
   - type: rawHtml
     title: Conoce nuestro enfoque
     html: >
