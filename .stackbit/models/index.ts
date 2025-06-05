@@ -9,7 +9,6 @@ import { Image } from './Image';
 import { Link } from './Link';
 import { Page } from './Page';
 import { ThemeStyle } from './ThemeStyle';
-import { RawHtmlSection } from './RawHtmlSection';
 
 export const allModels = {
     Button, 
@@ -23,5 +22,4 @@ export const allModels = {
     Link, 
     Page, 
     ThemeStyle,
-    RawHtmlSection,
 };
