@@ -60,5 +60,16 @@ sections:
         actions:
           - type: Button
             label: Ir a la propuesta
-            url: 'Liderazgo Consciente 360.pdf' 
+            url: 'Liderazgo Consciente 360.pdf'
+- type: rawHtml
+    title: Conoce nuestro enfoque
+    html: >
+      <iframe 
+        src="https://app.heygen.com/share/132d7de03f094253a817c4387e2085bf" 
+        width="100%" 
+        height="500" 
+        frameborder="0" 
+        allowfullscreen>
+      </iframe>
+---
 ---
