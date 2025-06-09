@@ -34,7 +34,7 @@ sections:
         actions:
           - type: Button
             label: Resume
-            url: '/images/Resum.pdf'
+            url: 'Ventas con AI y Automatización- Modelos Multiagentes de IA Agilizando los Procesos Empresariales  .pdf'
 
       - type: Card
         title: Programa de liderazgo consciente 360º
