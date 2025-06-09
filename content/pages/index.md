@@ -53,7 +53,7 @@ sections:
         title: Certificación Internacional en Coaching de Clase Mundial
         image:
           type: Image
-          url: images/Digitalización.png
+          url: images/Executives.png
           altText: Acompañamos a empresas en su transición digital con enfoque humano.
         text: >
           Acompañamos a empresas en su transición digital con enfoque humano.
