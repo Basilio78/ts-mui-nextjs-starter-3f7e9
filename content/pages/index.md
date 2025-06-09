@@ -50,7 +50,7 @@ sections:
             url: '/Liderazgo Consciente 360.ppsx'
 
       - type: Card
-        title: Digitalización de procesos para PyMES
+        title: Certificación Internacional en Coaching de Clase Mundial
         image:
           type: Image
           url: images/Digitalización.png
@@ -60,5 +60,5 @@ sections:
         actions:
           - type: Button
             label: Ir a la propuesta
-            url: 'Liderazgo Consciente 360.pdf'
+            url: 'Coaching Eje OL.25-26 (1).pdf'
 ---
