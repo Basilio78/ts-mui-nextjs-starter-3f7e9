@@ -61,4 +61,18 @@ sections:
           - type: Button
             label: Ir a la propuesta
             url: 'Coaching Eje OL.25-26 (1).pdf'
+
+            - type: Card
+        title: Arquitectura Organizacional
+        image:
+          type: Image
+          url: images/11vs11.png
+        text: >
+           text: >
+            Lo que los equipos campeones del deporte enseñan sobre liderazgo,
+            cultura, comunicación y sistemas de alto desempeño.
+        actions:
+    - type: Button
+      label: Leer artículo
+      url: /sistemas-y-equipos-de-alto-desempeño
 ---
