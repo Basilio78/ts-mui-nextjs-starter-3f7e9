@@ -13,7 +13,7 @@ sections:
 
     image:
       type: Image
-      url: public/images/11 vs 11.png
+      url: public/images/Sistem.png
       altText: Sistemas y liderazgo
 
 ---
