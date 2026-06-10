@@ -7,8 +7,7 @@ sections:
     title: Sistemas y equipos de alto desempeño
     subtitle: Lo que los campeones del deporte enseñan sobre liderazgo
     text: >
-    
-Los campeones del deporte nos enseñan que los resultados extraordinarios
+      Los campeones del deporte nos enseñan que los resultados extraordinarios
       rara vez son producto del talento individual. Son consecuencia de sistemas,
       cultura, procesos y liderazgo alineados hacia un propósito común.
       Cada vez que observamos una final de un Mundial de Fútbol o un Super Bowl, solemos enfocar nuestra            atención en los jugadores, las estrellas, las jugadas espectaculares o los entrenadores que levantan el       trofeo. Sin embargo, cuando analizamos los datos históricos de los equipos más exitosos del mundo,            encontramos una realidad mucho más profunda: los campeonatos rara vez son ganados por individuos              extraordinarios. Son ganados por sistemas extraordinarios.
@@ -68,9 +67,34 @@ Los campeones del deporte nos enseñan que los resultados extraordinarios
       Los principales detonadores actuales son la ambigüedad de prioridades, los cambios constantes de              dirección, la falta de autonomía, el exceso de reuniones, los objetivos contradictorios, el liderazgo         reactivo y la comunicación fragmentada.
 
       En términos deportivos sería equivalente a pedirle a un equipo que gane un campeonato cambiando de            formación cada semana, sin claridad táctica y con instrucciones contradictorias entre entrenadores. Es        valido mover el sistema siempre y cuando el mercado se movió. Ningún equipo campeón opera de esa forma.       Ninguna organización sostenible debería hacerlo tampoco.
-    
-        image:
-      type: Image
-      url: /images/tu-imagen.jpg
-      altText: Sistemas y liderazgo
 
+      La solución al burnout no es únicamente reducir carga de trabajo. La solución consiste en diseñar             sistemas más claros, más humanos y más coherentes. Esto funcionará si sus lideres están abiertos a la         retroalimentación y verificar sus propias fallas.
+
+      Eh aqui el reset constante, si sabemos fortalecer la linea de pensamiento, nos permite ser flexibles en       errores operativos, feedback en escalera, apertura al cambio y enfrentar el día a día. 
+
+      De la gestión de personas al diseño de sistemas humanos
+
+      La evolución natural del liderazgo moderno consiste en dejar de gestionar personas para comenzar a            diseñar sistemas más humanos. Los líderes del futuro serán menos supervisores y más arquitectos. Más          diseñadores de cultura. Más constructores de claridad. Más integradores de procesos. Más                      desarrolladores de capacidades colectivas.
+
+      Porque al final, tanto en el deporte como en los negocios, la pregunta correcta nunca ha sido si              tenemos suficiente talento. La pregunta correcta es si tenemos un sistema que permita que ese talento         produzca resultados extraordinarios de manera consistente. La realidad es que la operación es                 disciplina, tareas diarias que se convierten en patrones de conducta, si no hay alineación desequilibra       a las áreas y todavía más si hay crecimiento.
+
+      Los campeonatos deportivos y los resultados empresariales nos recuerdan la misma verdad fundamental:          los resultados visibles son siempre el reflejo de sistemas invisibles. Cuando los sistemas funcionan          correctamente, las personas encuentran dirección, la operación genera estabilidad, la cultura fortalece       el desempeño y los resultados aparecen como consecuencia natural.
+
+      Tal vez la mayor enseñanza que podemos obtener de Bill Walsh, Carlo Ancelotti, Johan Cruyff, Pep              Guardiola o Sir Alex Ferguson es que el liderazgo no consiste en perseguir resultados. Consiste en            construir las condiciones para que los resultados emerjan. Y cuando la organización logra diseñar un          sistema alineado, coherente y sostenible, el marcador termina encargándose de sí mismo.
+
+      Ricardo Alonso - Master Coach MCC
+      Maestro en Desarrollo Humano
+
+      Ancelotti, C., & D’Avanzo, A. (2016). Liderazgo tranquilo: Ganar corazones, mentes y partidos.                Plataforma Editorial.
+      Collins, J. (2001). Good to great: Why some companies make the leap... and others don't. HarperBusiness.
+      Cruyff, J. (2018). Mis principios del fútbol: El legado de Johan Cruyff. Ediciones B.
+      Ferguson, A., & Moritz, M. (2015). Leading: Learning from life and my years at Manchester United.             Hodder & Stoughton.
+      Lencioni, P. (2012). The advantage: Why organizational health trumps everything else in business.             Jossey-Bass.
+      Marquet, L. D. (2013). Turn the ship around!: A true story of turning followers into leaders.                 Portfolio/Penguin.
+      McChrystal, S., Collins, T., Silverman, D., & Fussell, C. (2015). Team of teams: New rules of                 engagement for a complex world. Portfolio.
+      Perarnau, M. (2014). Herr Pep. Roca Editorial.
+      Perarnau, M. (2016). La metamorfosis: Los años de Pep Guardiola en el Bayern Múnich. Roca Editorial.
+      Walsh, B., Jamison, S., & Walsh, C. (2009). The score takes care of itself: My philosophy of                  leadership. Portfolio.
+      Wilson, J. (2008). Inverting the pyramid: The history of soccer tactics. Orion Books.
+      Wilson, J. (2013). The anatomy of Liverpool: A history in ten matches (Como referencia complementaria         sobre evolución táctica y sistemas). Orion Books.
+    
