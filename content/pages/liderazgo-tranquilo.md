@@ -14,3 +14,4 @@ sections:
       type: Image
       url: /images/tu-imagen.jpg
       altText: Sistemas y liderazgo
+---
