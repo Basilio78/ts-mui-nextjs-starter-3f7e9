@@ -10,38 +10,37 @@ sections:
       Los campeones del deporte nos enseñan que los resultados extraordinarios
       rara vez son producto del talento individual. Son consecuencia de sistemas,
       cultura, procesos y liderazgo alineados hacia un propósito común.
-    Cada vez que observamos una final de un Mundial de Fútbol o un Super Bowl, solemos enfocar nuestra     atención en los jugadores, las estrellas, las jugadas espectaculares o los entrenadores que levantan el trofeo. Sin embargo, cuando analizamos los datos históricos de los equipos más exitosos del mundo, encontramos una realidad mucho más profunda: los campeonatos rara vez son ganados por individuos extraordinarios. Son ganados por sistemas extraordinarios.
+      Cada vez que observamos una final de un Mundial de Fútbol o un Super Bowl, solemos enfocar nuestra            atención en los jugadores, las estrellas, las jugadas espectaculares o los entrenadores que levantan el       trofeo. Sin embargo, cuando analizamos los datos históricos de los equipos más exitosos del mundo,            encontramos una realidad mucho más profunda: los campeonatos rara vez son ganados por individuos              extraordinarios. Son ganados por sistemas extraordinarios.
 
+      Esta misma realidad se replica diariamente dentro de las organizaciones. Mientras muchas empresas             continúan buscando talento excepcional, líderes heroicos o soluciones rápidas para aumentar resultados,       los equipos de alto desempeño construyen algo mucho más valioso: sistemas capaces de generar resultados       de forma consistente, independientemente de las circunstancias.
 
+      Bill Walsh, uno de los entrenadores más influyentes en la historia de la NFL y autor de The Score Takes       Care of Itself, comprendió esta verdad décadas atrás. Su filosofía era aparentemente simple: “No              persigas el marcador. Persigue la excelencia en cada detalle. El marcador se encargará de sí mismo”. Lo       mismo sucede en las organizaciones. Los ingresos, la rentabilidad, el crecimiento, la innovación y la         satisfacción del cliente son consecuencias de un sistema bien diseñado. Nunca son la causa.
 
-Esta misma realidad se replica diariamente dentro de las organizaciones. Mientras muchas empresas continúan buscando talento excepcional, líderes heroicos o soluciones rápidas para aumentar resultados, los equipos de alto desempeño construyen algo mucho más valioso: sistemas capaces de generar resultados de forma consistente, independientemente de las circunstancias.
+      La gran lección de los equipos campeones
+      Al analizar las selecciones campeonas del mundo y las franquicias más exitosas de la NFL, encontramos         patrones recurrentes que se mantienen constantes a pesar del paso del tiempo. España en 2010, Alemania        en 2014, Francia en 2018 o Argentina en 2022 utilizaron sistemas tácticos diferentes. Los San Francisco       49ers de Bill Walsh, los New England Patriots de Bill Belichick o los Kansas City Chiefs de Andy Reid         también evolucionaron constantemente sus esquemas ofensivos y defensivos; los aztecas de la UDLAP del         2010.
+      Sin embargo, todos compartían elementos fundamentales: claridad absoluta de roles, comunicación de            confianza, disciplina operativa, liderazgo distribuido, capacidad de adaptación y una cultura de mejora       continua. Lo interesante es que ninguno de estos factores es exclusivamente técnico. Todos son                sistémicos.
+      Los campeonatos no son el resultado de una gran actuación aislada. Son el resultado acumulado de miles        de decisiones correctas ejecutadas de manera consistente. En el deporte de élite, los sistemas ganan          más campeonatos que las individualidades. En los negocios ocurre exactamente lo mismo.
 
-Bill Walsh, uno de los entrenadores más influyentes en la historia de la NFL y autor de The Score Takes Care of Itself, comprendió esta verdad décadas atrás. Su filosofía era aparentemente simple: “No persigas el marcador. Persigue la excelencia en cada detalle. El marcador se encargará de sí mismo”. Lo mismo sucede en las organizaciones. Los ingresos, la rentabilidad, el crecimiento, la innovación y la satisfacción del cliente son consecuencias de un sistema bien diseñado. Nunca son la causa.
+      El problema actual de las organizaciones
 
-La gran lección de los equipos campeones
-Al analizar las selecciones campeonas del mundo y las franquicias más exitosas de la NFL, encontramos patrones recurrentes que se mantienen constantes a pesar del paso del tiempo. España en 2010, Alemania en 2014, Francia en 2018 o Argentina en 2022 utilizaron sistemas tácticos diferentes. Los San Francisco 49ers de Bill Walsh, los New England Patriots de Bill Belichick o los Kansas City Chiefs de Andy Reid también evolucionaron constantemente sus esquemas ofensivos y defensivos; los aztecas de la UDLAP del 2010.
-Sin embargo, todos compartían elementos fundamentales: claridad absoluta de roles, comunicación de confianza, disciplina operativa, liderazgo distribuido, capacidad de adaptación y una cultura de mejora continua. Lo interesante es que ninguno de estos factores es exclusivamente técnico. Todos son sistémicos.
-Los campeonatos no son el resultado de una gran actuación aislada. Son el resultado acumulado de miles de decisiones correctas ejecutadas de manera consistente. En el deporte de élite, los sistemas ganan más campeonatos que las individualidades. En los negocios ocurre exactamente lo mismo.
+      Hoy vivimos una paradoja organizacional. Las empresas tienen más tecnología que nunca, más reuniones          que nunca, más canales de comunicación que nunca y más herramientas colaborativas que nunca. Sin              embargo, los niveles de agotamiento, confusión y desgaste continúan creciendo.
 
-El problema actual de las organizaciones
+      El problema no es la falta de comunicación. El problema es el exceso de comunicación sin estructura.          Muchas organizaciones han confundido estar conectados con estar alineados. Slack, Teams, WhatsApp,            correo electrónico, reuniones permanentes, llamadas improvisadas y mensajes urgentes generan una              sensación constante de actividad. Pero actividad no significa avance.
 
-Hoy vivimos una paradoja organizacional. Las empresas tienen más tecnología que nunca, más reuniones que nunca, más canales de comunicación que nunca y más herramientas colaborativas que nunca. Sin embargo, los niveles de agotamiento, confusión y desgaste continúan creciendo.
+      En muchos equipos actuales la información circula más rápido que la claridad. Como consecuencia               aparecen síntomas visibles: burnout, fatiga decisional, micromanagement, sobrecarga cognitiva, desgaste       emocional, conflictos entre áreas y pérdida de accountability. La mayoría de las veces estos problemas        no nacen por falta de talento. Nacen por ausencia de sistema.
 
-El problema no es la falta de comunicación. El problema es el exceso de comunicación sin estructura. Muchas organizaciones han confundido estar conectados con estar alineados. Slack, Teams, WhatsApp, correo electrónico, reuniones permanentes, llamadas improvisadas y mensajes urgentes generan una sensación constante de actividad. Pero actividad no significa avance.
+      El fútbol moderno y la empresa moderna comparten el mismo desafío
 
-En muchos equipos actuales la información circula más rápido que la claridad. Como consecuencia aparecen síntomas visibles: burnout, fatiga decisional, micromanagement, sobrecarga cognitiva, desgaste emocional, conflictos entre áreas y pérdida de accountability. La mayoría de las veces estos problemas no nacen por falta de talento. Nacen por ausencia de sistema.
+      Pep Guardiola suele decir que la posición del jugador no define su función. Lo que define su función es       la relación que tiene con el sistema. Esta idea revolucionó el fútbol moderno y debería revolucionar          también a las organizaciones.
 
-El fútbol moderno y la empresa moderna comparten el mismo desafío
+      Muchas empresas continúan diseñando organigramas. Pocas diseñan sistemas. Cuando una organización             depende excesivamente de personas específicas para resolver problemas, la empresa se vuelve vulnerable.       Cuando depende de procesos claros, cultura sólida y liderazgo distribuido, se vuelve escalable.
+      El verdadero trabajo del liderazgo no consiste en resolver más problemas. Consiste en diseñar sistemas        donde los problemas puedan resolverse sin depender constantemente del líder. La madurez organizacional        aparece cuando la operación deja de depender de héroes y comienza a depender de arquitectura.
 
-Pep Guardiola suele decir que la posición del jugador no define su función. Lo que define su función es la relación que tiene con el sistema. Esta idea revolucionó el fútbol moderno y debería revolucionar también a las organizaciones.
+      El liderazgo tranquilo de Carlo Ancelotti
 
-Muchas empresas continúan diseñando organigramas. Pocas diseñan sistemas. Cuando una organización depende excesivamente de personas específicas para resolver problemas, la empresa se vuelve vulnerable. Cuando depende de procesos claros, cultura sólida y liderazgo distribuido, se vuelve escalable.
-El verdadero trabajo del liderazgo no consiste en resolver más problemas. Consiste en diseñar sistemas donde los problemas puedan resolverse sin depender constantemente del líder. La madurez organizacional aparece cuando la operación deja de depender de héroes y comienza a depender de arquitectura.
-El liderazgo tranquilo de Carlo Ancelotti
+      Uno de los casos más interesantes del deporte moderno es Carlo Ancelotti. A diferencia de entrenadores        que buscan protagonismo permanente, Ancelotti ha construido una de las carreras más exitosas de la            historia desde un enfoque radicalmente diferente.
 
-Uno de los casos más interesantes del deporte moderno es Carlo Ancelotti. A diferencia de entrenadores que buscan protagonismo permanente, Ancelotti ha construido una de las carreras más exitosas de la historia desde un enfoque radicalmente diferente.
-
-En su libro Liderazgo Tranquilo explica que la función principal del líder no es controlar personas. Es crear condiciones para que las personas den su mejor versión. Mientras muchos líderes organizacionales responden aumentando controles, supervisión y reportes, Ancelotti apuesta por la confianza, la autonomía y la claridad.
+      En su libro Liderazgo Tranquilo explica que la función principal del líder no es controlar personas. Es crear condiciones para que las personas den su mejor versión. Mientras muchos líderes organizacionales responden aumentando controles, supervisión y reportes, Ancelotti apuesta por la confianza, la autonomía y la claridad.
 Su modelo demuestra que los equipos no se vuelven más responsables porque sean vigilados. Se vuelven más responsables cuando comprenden claramente su propósito, sus límites de decisión y su contribución al sistema completo.
 
 Aunque una mezcla suele ser el que se diseña internamente. Este es el que me gusta diseñar particulatmente pero para hacerlo necesitas crear con datos la alineación pertinente entre talento y disciplina, para crear balance.
