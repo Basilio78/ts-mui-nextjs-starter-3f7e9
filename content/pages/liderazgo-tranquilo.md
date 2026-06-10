@@ -10,8 +10,9 @@ sections:
       Los campeones del deporte nos enseñan que los resultados extraordinarios
       rara vez son producto del talento individual. Son consecuencia de sistemas,
       cultura, procesos y liderazgo alineados hacia un propósito común.
+    Cada vez que observamos una final de un Mundial de Fútbol o un Super Bowl, solemos enfocar nuestra     atención en los jugadores, las estrellas, las jugadas espectaculares o los entrenadores que levantan el trofeo. Sin embargo, cuando analizamos los datos históricos de los equipos más exitosos del mundo, encontramos una realidad mucho más profunda: los campeonatos rara vez son ganados por individuos extraordinarios. Son ganados por sistemas extraordinarios.
 
-Cada vez que observamos una final de un Mundial de Fútbol o un Super Bowl, solemos enfocar nuestra atención en los jugadores, las estrellas, las jugadas espectaculares o los entrenadores que levantan el trofeo. Sin embargo, cuando analizamos los datos históricos de los equipos más exitosos del mundo, encontramos una realidad mucho más profunda: los campeonatos rara vez son ganados por individuos extraordinarios. Son ganados por sistemas extraordinarios.
+
 
 Esta misma realidad se replica diariamente dentro de las organizaciones. Mientras muchas empresas continúan buscando talento excepcional, líderes heroicos o soluciones rápidas para aumentar resultados, los equipos de alto desempeño construyen algo mucho más valioso: sistemas capaces de generar resultados de forma consistente, independientemente de las circunstancias.
 
@@ -100,3 +101,4 @@ Wilson, J. (2008). Inverting the pyramid: The history of soccer tactics. Orion B
 Wilson, J. (2013). The anatomy of Liverpool: A history in ten matches (Como referencia complementaria sobre evolución táctica y sistemas). Orion Books.
 
 <img width="468" height="623" alt="image" src="https://github.com/user-attachments/assets/6a4f073e-4e66-4a91-bf66-42793758738d" />
+
