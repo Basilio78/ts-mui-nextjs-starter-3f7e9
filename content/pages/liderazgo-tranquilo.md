@@ -5,10 +5,11 @@ type: Page
 sections:
   - type: HeroSection
     title: Sistemas y equipos de alto desempeño
-    subtitle: Lo que Carlo Ancelotti enseña sobre gestión humana
+    subtitle: Lo que los campeones del deporte enseñan sobre liderazgo
     text: >
-      Los Campeones del Deporte nos Enseñan sobre Liderazgo, Sistemas y Equipos de Alto Desempeño
-Cuando el marcador deja de ser el objetivo
+      Los campeones del deporte nos enseñan que los resultados extraordinarios
+      rara vez son producto del talento individual. Son consecuencia de sistemas,
+      cultura, procesos y liderazgo alineados hacia un propósito común.
 
 Cada vez que observamos una final de un Mundial de Fútbol o un Super Bowl, solemos enfocar nuestra atención en los jugadores, las estrellas, las jugadas espectaculares o los entrenadores que levantan el trofeo. Sin embargo, cuando analizamos los datos históricos de los equipos más exitosos del mundo, encontramos una realidad mucho más profunda: los campeonatos rara vez son ganados por individuos extraordinarios. Son ganados por sistemas extraordinarios.
 
